@@ -1,0 +1,5 @@
+[02-Apr-2013 09:47:13] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/colkurtz/core/application/models/posts_model.php on line 23
+[02-Apr-2013 09:47:22] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/colkurtz/core/application/models/posts_model.php on line 23
+[02-Apr-2013 09:47:24] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/colkurtz/core/application/models/posts_model.php on line 23
+[02-Apr-2013 09:47:24] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/colkurtz/core/application/models/posts_model.php on line 23
+[02-Apr-2013 09:47:39] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/colkurtz/core/application/models/posts_model.php on line 23

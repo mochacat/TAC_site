@@ -1,0 +1,76 @@
+body{
+	background-image:url('/img/site/paper_transparent.png');
+	color: white;
+	font:13px/1.231 sans-serif;
+	repeat:repeat-x;
+	background-color:rgb(75, 37, 36);
+}
+
+h1{
+	text-shadow: 2px 3px 1px rgb(66, 13, 13);
+}
+
+.errors p{
+	width: 200px;
+	height: 20px;
+	background-color: rgb(141, 8, 8);
+	border: gray double 2px;
+}
+
+#login-form{
+	position: relative;
+	width: 200px;
+}
+
+#logo-admin{
+	height: 100px;
+}
+
+#remember{
+	width: 100px;
+}
+
+#heading{
+	background-image: url('/img/site/canvas_trans.png');
+	background-size: 3px;
+	background-color: rgb(15, 87, 61);
+}
+
+#heading > h1{
+	margin-top: 10px;
+	margin-left: 10px;
+}
+
+#logged{
+	position: relative;
+	float: right;
+	margin-right: 10px;
+}
+
+#menu{
+	position: relative;
+	clear: both;
+	height:35px;
+	background-color: black;
+	margin:0px;
+}
+
+#menu > ul.left{
+	float: left;
+}
+
+#menu > ul.right{
+	float: right;
+}
+
+li{
+	float: left;
+	margin-left: 10px;
+	margin-right: 10px;
+	margin-bottom: 2px;
+	list-style-type: none;
+}
+
+#content{
+	background-color: white;
+}
